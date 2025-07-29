@@ -29,7 +29,7 @@ for job in data:
         if lang.lower() in key_skills:
             language_counts[lang] += 1
             
-#sort dict as alphabetical list            
+#sort dict into alphabetical list            
 sorted_language_counts = sorted(language_counts.items(), key=lambda x: x[0].lower())            
 
 
