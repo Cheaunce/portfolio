@@ -20,7 +20,5 @@ Web-Scraping-Lab.py
 
 # Context
 
-# Context
-
 These are supporting projects from the IBM Data Analyst Professional Certificate that demonstrate practice with Python, data cleaning, aggregation, and working with APIs
 and CSV/Excel files. They showcase applied skills in structured exercises rather than end-to-end, self-directed projects, with the exception of the RemoteOK web-scraping exercise.
