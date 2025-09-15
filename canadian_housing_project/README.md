@@ -30,11 +30,13 @@ Based on preliminary research, I anticipate that:
 
 ## Project Structure
 
+```
 canadian_housing_project/
     data/       # Raw datasets (CMHC RMS, CSI)
     notebooks/  # Jupyter notebooks for cleaning, analysis, and visualization
     images/     # Charts and visualizations exported for README
     README.md   # Project description, methodology, and findings
+```
 
 ## Methodology
 
