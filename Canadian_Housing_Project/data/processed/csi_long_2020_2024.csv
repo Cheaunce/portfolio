@@ -1,0 +1,216 @@
+geo_name,metric,unit,year,value,dataset
+Canada,Crime severity index,Index,2020,73.92,statscan_csi
+Canada,Percent change in crime severity index,Percent,2020,-7.28,statscan_csi
+Canada,Violent crime severity index,Index,2020,87.99,statscan_csi
+Canada,Percent change in violent crime severity index,Percent,2020,-2.49,statscan_csi
+Canada,Non-violent crime severity index,Index,2020,68.68,statscan_csi
+Canada,Percent change in non-violent crime severity index,Percent,2020,-9.33,statscan_csi
+Canada,Youth crime severity index,Index,2020,42.72,statscan_csi
+Canada,Percent change in youth crime severity index,Percent,2020,-22.36,statscan_csi
+Canada,Youth violent crime severity index,Index,2020,66.46,statscan_csi
+Canada,Percent change in youth violent crime severity index,Percent,2020,-16.62,statscan_csi
+Canada,Youth non-violent crime severity index,Index,2020,26.14,statscan_csi
+Canada,Percent change in youth non-violent crime severity index,Percent,2020,-30.61,statscan_csi
+Canada,Weighted clearance rate,Percent,2020,37.36,statscan_csi
+Canada,Percent change in weighted clearance rate,Percent,2020,0.92,statscan_csi
+Canada,Violent weighted clearance rate,Percent,2020,58.74,statscan_csi
+Canada,Percent change in violent weighted clearance rate,Percent,2020,0.88,statscan_csi
+Canada,Non-violent weighted clearance rate,Percent,2020,27.51,statscan_csi
+Canada,Percent change in non-violent weighted clearance rate,Percent,2020,-1.5,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,,Percent,2020,,statscan_csi
+Canada,"""How to cite: Statistics Canada. Table 35-10-0026-01 Crime severity index and weighted clearance rates",Percent,2020,,statscan_csi
+Canada,Crime severity index,Index,2021,74.87,statscan_csi
+Canada,Percent change in crime severity index,Percent,2021,1.29,statscan_csi
+Canada,Violent crime severity index,Index,2021,93.4,statscan_csi
+Canada,Percent change in violent crime severity index,Percent,2021,6.15,statscan_csi
+Canada,Non-violent crime severity index,Index,2021,68.1,statscan_csi
+Canada,Percent change in non-violent crime severity index,Percent,2021,-0.84,statscan_csi
+Canada,Youth crime severity index,Index,2021,41.18,statscan_csi
+Canada,Percent change in youth crime severity index,Percent,2021,-3.6,statscan_csi
+Canada,Youth violent crime severity index,Index,2021,64.32,statscan_csi
+Canada,Percent change in youth violent crime severity index,Percent,2021,-3.22,statscan_csi
+Canada,Youth non-violent crime severity index,Index,2021,25.02,statscan_csi
+Canada,Percent change in youth non-violent crime severity index,Percent,2021,-4.28,statscan_csi
+Canada,Weighted clearance rate,Percent,2021,36.84,statscan_csi
+Canada,Percent change in weighted clearance rate,Percent,2021,-1.39,statscan_csi
+Canada,Violent weighted clearance rate,Percent,2021,56.01,statscan_csi
+Canada,Percent change in violent weighted clearance rate,Percent,2021,-4.65,statscan_csi
+Canada,Non-violent weighted clearance rate,Percent,2021,26.33,statscan_csi
+Canada,Percent change in non-violent weighted clearance rate,Percent,2021,-4.29,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,,Percent,2021,,statscan_csi
+Canada,"""How to cite: Statistics Canada. Table 35-10-0026-01 Crime severity index and weighted clearance rates",Percent,2021,,statscan_csi
+Canada,Crime severity index,Index,2022,78.77,statscan_csi
+Canada,Percent change in crime severity index,Percent,2022,5.21,statscan_csi
+Canada,Violent crime severity index,Index,2022,99.07,statscan_csi
+Canada,Percent change in violent crime severity index,Percent,2022,6.07,statscan_csi
+Canada,Non-violent crime severity index,Index,2022,71.32,statscan_csi
+Canada,Percent change in non-violent crime severity index,Percent,2022,4.73,statscan_csi
+Canada,Youth crime severity index,Index,2022,50.42,statscan_csi
+Canada,Percent change in youth crime severity index,Percent,2022,22.44,statscan_csi
+Canada,Youth violent crime severity index,Index,2022,83.21,statscan_csi
+Canada,Percent change in youth violent crime severity index,Percent,2022,29.37,statscan_csi
+Canada,Youth non-violent crime severity index,Index,2022,27.54,statscan_csi
+Canada,Percent change in youth non-violent crime severity index,Percent,2022,10.07,statscan_csi
+Canada,Weighted clearance rate,Percent,2022,35.99,statscan_csi
+Canada,Percent change in weighted clearance rate,Percent,2022,-2.31,statscan_csi
+Canada,Violent weighted clearance rate,Percent,2022,55.81,statscan_csi
+Canada,Percent change in violent weighted clearance rate,Percent,2022,-0.36,statscan_csi
+Canada,Non-violent weighted clearance rate,Percent,2022,24.99,statscan_csi
+Canada,Percent change in non-violent weighted clearance rate,Percent,2022,-5.09,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,,Percent,2022,,statscan_csi
+Canada,"""How to cite: Statistics Canada. Table 35-10-0026-01 Crime severity index and weighted clearance rates",Percent,2022,,statscan_csi
+Canada,Crime severity index,Index,2023,81.2,statscan_csi
+Canada,Percent change in crime severity index,Percent,2023,3.08,statscan_csi
+Canada,Violent crime severity index,Index,2023,100.92,statscan_csi
+Canada,Percent change in violent crime severity index,Percent,2023,1.87,statscan_csi
+Canada,Non-violent crime severity index,Index,2023,74.0,statscan_csi
+Canada,Percent change in non-violent crime severity index,Percent,2023,3.76,statscan_csi
+Canada,Youth crime severity index,Index,2023,54.21,statscan_csi
+Canada,Percent change in youth crime severity index,Percent,2023,7.52,statscan_csi
+Canada,Youth violent crime severity index,Index,2023,86.82,statscan_csi
+Canada,Percent change in youth violent crime severity index,Percent,2023,4.34,statscan_csi
+Canada,Youth non-violent crime severity index,Index,2023,31.44,statscan_csi
+Canada,Percent change in youth non-violent crime severity index,Percent,2023,14.16,statscan_csi
+Canada,Weighted clearance rate,Percent,2023,34.85,statscan_csi
+Canada,Percent change in weighted clearance rate,Percent,2023,-3.17,statscan_csi
+Canada,Violent weighted clearance rate,Percent,2023,54.01,statscan_csi
+Canada,Percent change in violent weighted clearance rate,Percent,2023,-3.23,statscan_csi
+Canada,Non-violent weighted clearance rate,Percent,2023,24.41,statscan_csi
+Canada,Percent change in non-violent weighted clearance rate,Percent,2023,-2.32,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,,Percent,2023,,statscan_csi
+Canada,"""How to cite: Statistics Canada. Table 35-10-0026-01 Crime severity index and weighted clearance rates",Percent,2023,,statscan_csi
+Canada,Crime severity index,Index,2024,77.89,statscan_csi
+Canada,Percent change in crime severity index,Percent,2024,-4.08,statscan_csi
+Canada,Violent crime severity index,Index,2024,99.87,statscan_csi
+Canada,Percent change in violent crime severity index,Percent,2024,-1.04,statscan_csi
+Canada,Non-violent crime severity index,Index,2024,69.76,statscan_csi
+Canada,Percent change in non-violent crime severity index,Percent,2024,-5.73,statscan_csi
+Canada,Youth crime severity index,Index,2024,52.46,statscan_csi
+Canada,Percent change in youth crime severity index,Percent,2024,-3.23,statscan_csi
+Canada,Youth violent crime severity index,Index,2024,83.28,statscan_csi
+Canada,Percent change in youth violent crime severity index,Percent,2024,-4.08,statscan_csi
+Canada,Youth non-violent crime severity index,Index,2024,30.94,statscan_csi
+Canada,Percent change in youth non-violent crime severity index,Percent,2024,-1.59,statscan_csi
+Canada,Weighted clearance rate,Percent,2024,35.54,statscan_csi
+Canada,Percent change in weighted clearance rate,Percent,2024,1.98,statscan_csi
+Canada,Violent weighted clearance rate,Percent,2024,53.65,statscan_csi
+Canada,Percent change in violent weighted clearance rate,Percent,2024,-0.67,statscan_csi
+Canada,Non-violent weighted clearance rate,Percent,2024,25.17,statscan_csi
+Canada,Percent change in non-violent weighted clearance rate,Percent,2024,3.11,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,,Percent,2024,,statscan_csi
+Canada,"""How to cite: Statistics Canada. Table 35-10-0026-01 Crime severity index and weighted clearance rates",Percent,2024,,statscan_csi

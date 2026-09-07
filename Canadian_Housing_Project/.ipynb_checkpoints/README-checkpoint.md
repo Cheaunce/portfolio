@@ -32,18 +32,13 @@ Based on preliminary research, I anticipate that:
 
 ```
 canadian_housing_project/
-    dashboard.py    # Streamlit companion app -- run with: streamlit run dashboard.py
-    styles/
-        chance.mplstyle  # Custom matplotlib theme used across notebooks 04-05
     data/
         raw/        # Original CMHC and StatsCan downloads
         processed/  # Cleaned datasets used for analysis
     notebooks/
         01_clean_cmhc.ipynb
         02_clean_csi.ipynb
-        03_merge.ipynb
-        04_eda_visualizations.ipynb
-        05_findings.ipynb
+        03_merge_and_eda.ipynb
     images/         # Exported charts and visualizations
     README.md       # Project description, methodology, and findings
 ```
@@ -64,18 +59,7 @@ canadian_housing_project/
 - Extending the analysis across a larger timeline
 
 ## Visualizations
-Generated in `04_eda_visualizations.ipynb` and saved to `images/`:
-- National rent vs. crime severity trend, 2020-2024
-- Rent vs. crime severity by city, 2024
-- Within-city rent/crime correlation, all 17 CMAs
-
-## Dashboard
-`dashboard.py` is a Streamlit companion app for exploring the merged dataset interactively -- filter by city, year, and crime metric. It reads the same processed data the notebooks produce; it doesn't run any cleaning or merging itself.
-
-Run from the project root:
-```
-streamlit run dashboard.py
-```
+*Charts and figures generated from notebooks will be placed here (e.g., scatterplots, trends over years).*
 
 ## Findings
 *My findings using the current dataset are inconclusive at this time. There is some significant positive correlation (> 0.8) in 7 centres, but the remaining 10 show weaker or negative correlations. With such a small dataset (5 years as data points for 17 centres) and so few factors, rent and crime, there aren't other available statistics to consider at this time.
