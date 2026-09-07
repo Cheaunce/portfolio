@@ -6,6 +6,4 @@
 ## Canadian Housing Affordability vs. Crime Severity
 A full data pipeline analyzing rent and crime severity across 17 Canadian CMAs (2020-2024): cleaning, merging, EDA, and findings, and an interactive Streamlit dashboard for exploring the data yourself.
 
-[View the project](./Canadian_Housing_Project) · [Run the dashboard](./Canadian_Housing_Project/dashboard.py)
-
-Download the dashboard and use the following in your terminal: streamlit run dashboard.py
+[View the project](https://github.com/Cheaunce/portfolio/tree/main/Canadian_Housing_Project) · Clone the repo and run `streamlit run dashboard.py` from inside the Canadian_Housing_Project folder to try the interactive dashboard locally.
